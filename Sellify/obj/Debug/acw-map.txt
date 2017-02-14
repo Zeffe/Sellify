@@ -1,0 +1,4 @@
+Sellify.MainActivity, Sellify;md51226602c5f1f80b24b806da495342d3c.MainActivity
+Sellify.MainActivity, Sellify, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51226602c5f1f80b24b806da495342d3c.MainActivity
+Sellify.MainActivity;md51226602c5f1f80b24b806da495342d3c.MainActivity
+sellify.MainActivity;md51226602c5f1f80b24b806da495342d3c.MainActivity
